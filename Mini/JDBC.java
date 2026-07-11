@@ -10,7 +10,7 @@ public class JDBC {
 	public static void main(String[] args) {
 		String url = "jdbc:mysql://localhost:3306/Accounts";
 		String userName = "root";
-		String password = "root";
+		String password = "password";
 		ResultSet res = null;
 
 		// Queries

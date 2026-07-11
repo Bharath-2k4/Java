@@ -8,7 +8,7 @@ The application checks the sender's balance before transferring funds. If any er
 
 ## 📸 Project Output
 
-![Project Output](assets/output.png)
+![Project Output](assets/Otput.png)
 
 ---
 

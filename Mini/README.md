@@ -8,20 +8,6 @@ The application checks the sender's balance before transferring funds. If any er
 
 ## 📸 Project Output
 
-> Save your uploaded screenshot inside an **assets** folder as `output.png`.
-
-```text
-Java-JDBC-Bank-System
-│
-├── src
-├── assets
-│   └── output.png
-├── README.md
-└── ...
-```
-
-Then the image will automatically appear in GitHub.
-
 ![Project Output](assets/output.png)
 
 ---

@@ -8,7 +8,7 @@ The application checks the sender's balance before transferring funds. If any er
 
 ## 📸 Project Output
 
-![Project Output](Mini/assets/Output.png)
+![Project Output](https://raw.githubusercontent.com/Bharath-2k4/Java/main/Mini/assets/Output.png)
 
 ---
 

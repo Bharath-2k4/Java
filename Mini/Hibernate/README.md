@@ -253,10 +253,7 @@ Display Page
 
 AI & Data Science Engineer
 
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
-
+GitHub: https://www.linkedin.com/in/bharath-r-b61082318/
 ---
 
 ## ⭐ If you like this project

@@ -90,15 +90,11 @@ Columns
 
 ## Failed Transaction (Rollback)
 
-> Replace this image with your own screenshot.
-
 ![Rollback Output](images/Rollback.png)
 
 ---
 
 ## Updated Database Records
-
-> Replace this image with your own screenshot.
 
 ![Database Output](images/Database.png)
 

@@ -100,7 +100,7 @@ Columns
 
 > Replace this image with your own screenshot.
 
-![Database Output](image/Database.png)
+![Database Output](images/Database.png)
 
 ---
 

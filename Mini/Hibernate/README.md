@@ -130,34 +130,22 @@ Columns
 - Annotation Based Mapping
 
 ---
-
-# 📷 Project Screenshots
+## 📝 Student Registration Form
 
 ## 🏠 Home Page
 
 ![Home Page](images/home.png)
 
 ---
-
-## 📝 Student Registration Form
-
+## ✅ Registration Successful
 ![Registration](images/registration.png)
 
 ---
-
-## ✅ Registration Successful
-
-> Upload image here
-
+## ✅ Database Displayed successfully
 ![Success](images/success.png)
 
 ---
 
-## 📋 Display Student Records
-
-![Display](images/display.png)
-
----
 
 # ▶️ How to Run
 

@@ -92,7 +92,7 @@ Columns
 
 > Replace this image with your own screenshot.
 
-![Rollback Output](images/rollback.png)
+![Rollback Output](images/Rollback.png)
 
 ---
 
@@ -100,7 +100,7 @@ Columns
 
 > Replace this image with your own screenshot.
 
-![Database Output](images/database.png)
+![Database Output](image/Database.png)
 
 ---
 
